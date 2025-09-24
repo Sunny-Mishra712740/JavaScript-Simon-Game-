@@ -1,3 +1,13 @@
-const simon = 8;
+let gameSeq = [];
+let userSeq = [];
 
-var app = req.params
+let started = false;
+
+let level = 0;
+
+document.addEventListener("keypress", function () {
+    if (stareted == false) {
+        console.log("Game stared");
+        started = true;
+    }
+})
