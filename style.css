@@ -10,6 +10,7 @@ body {
     margin: 1.5rem;
 }
 
+
 .btn-container {
     display: flex;
     justify-content: center;
@@ -29,4 +30,8 @@ body {
 
 .purple {
     background-color: rgb(94, 18, 94);
+}
+
+.flash {
+    background-color: whitesmoke;
 }
